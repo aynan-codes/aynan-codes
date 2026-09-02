@@ -123,10 +123,12 @@
 
 #### 📊 GitHub Statistics:
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=aynan-codes&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aynan-codes&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aynan-codes&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aynan-codes&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 #### ⚡ Repository Stats & Streak:
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aynan-codes&theme=radical" alt="GitHub Streak" />
