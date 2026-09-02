@@ -118,7 +118,7 @@
 
 #### 📌 GitHub Contributions:
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aynan-codes&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/aynan-codes" alt="Contribution Graph" />
 </p>
 
 #### 📊 GitHub Statistics:
