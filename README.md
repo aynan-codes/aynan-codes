@@ -113,3 +113,22 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
+
+
+### 📊 GITHUB STATISTICS & ANALYSIS:
+
+#### 📌 GitHub Contributions:
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=toudhicodes&theme=react-dark" alt="Contribution Graph" />
+</p>
+
+#### 📊 GitHub Statistics:
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=toudhicodes&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toudhicodes&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+#### ⚡ Repository Stats & Streak:
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toudhicodes&theme=radical" alt="GitHub Streak" />
+</p>
