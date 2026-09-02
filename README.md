@@ -56,3 +56,10 @@
   <a href="YOUR_LINKEDIN_LINK">LinkedIn</a> •
   <a href="YOUR_PORTFOLIO_LINK">Portfolio</a>
 </p>
+
+
+<h2 align="center">🛠️ Skills & Technologies</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,express,mongodb,git,github,vscode" />
+</p>
