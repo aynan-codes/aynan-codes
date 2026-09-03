@@ -58,8 +58,6 @@
 </p>
 
 
-![snake gif](https://raw.githubusercontent.com/aynan-codes/aynan-codes/gh-pages/github-contribution-grid-snake.svg)
-
 ### 🚀 TECHNOLOGY STACK:
 
 ### 💻 Languages:
@@ -120,7 +118,7 @@
 
 #### 📌 GitHub Contributions:
 <p>
-  <img src="https://ghchart.rshah.org/2b2b2b/aynan-codes" alt="Contribution Graph" />
+   <img src="https://raw.githubusercontent.com/aynan-codes/aynan-codes/gh-pages/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Graph" />
 </p>
 
 #### 📊 GitHub Statistics:
