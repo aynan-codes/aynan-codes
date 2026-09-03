@@ -60,37 +60,37 @@
 
 ### 🚀 TECHNOLOGY STACK:
 ### 💻 Languages:
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python" />
 </p>
 
 ### 🎨 CSS Frameworks & Libraries:
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
 </p>
 
 ### ⚙️ JavaScript Frameworks & Libraries:
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,redux" />
 </p>
 
 ### 🗄️ Database & Model:
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
 ### 🚀 Deployment Platform:
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
 </p>
 
 ### 🎨 Design & Graphics:
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=ai,ps" />
 </p>
 
 ### 🛠️ Tools & Technologies:
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 </p>
 
