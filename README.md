@@ -120,7 +120,7 @@
 
 #### 📌 GitHub Contributions:
 <p>
-  <img src="https://ghchart.rshah.org/aynan-codes" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/2b2b2b/aynan-codes" alt="Contribution Graph" />
 </p>
 
 #### 📊 GitHub Statistics:
