@@ -58,6 +58,8 @@
 </p>
 
 
+![snake gif](https://raw.githubusercontent.com/aynan-codes/aynan-codes/gh-pages/github-contribution-grid-snake.svg)
+
 ### 🚀 TECHNOLOGY STACK:
 
 ### 💻 Languages:
