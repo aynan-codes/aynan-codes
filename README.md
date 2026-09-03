@@ -3,12 +3,16 @@
 </p>plications.
 </p>
 
+
 <h1 align="center">👋 Hi, I'm Abu Baten Mohammad Aynan</h1>
 
-<h3 align="center">💻 Full Stack Web Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B;I'm+Aynan;Full+Stack+Web+Developer;Welcome+to+my+Profile" />
+</p>
 
 <p align="center">
-  Passionate about building modern, scalable and user-friendly web ap
+  Passionate about building modern, scalable and user-friendly web applications.
+</p>
 
 ---
 
