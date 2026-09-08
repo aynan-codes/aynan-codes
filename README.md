@@ -1,6 +1,9 @@
 <p align="center">
   <img src="./banner.png" width="100%">
-</p>plications.
+</p>
+
+<p align="center">
+  Turning ideas into clean, scalable web applications.
 </p>
 
 
