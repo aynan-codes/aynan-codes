@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Turning ideas into clean, scalable web applications.
+  <b>🚀 Building modern, responsive, and scalable web experiences with passion and clean code.</b>
 </p>
 
 
